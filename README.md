@@ -4,7 +4,7 @@
 ### Getting started:
   * run npm install OR yarn install
   * run yarn develop
-  * Load http://localhost:3000/graphql
+  * Load http://localhost:5000/graphql
 
 Look through the Node.Js docs here: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
 
